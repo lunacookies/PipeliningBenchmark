@@ -16,6 +16,7 @@ typedef float float32;
 typedef double float64;
 
 void chain(uint64 iters);
+void fan(uint64 iters);
 
 typedef void (*Benchmark)(uint64 iters);
 
@@ -33,4 +34,5 @@ bench(char *name, Benchmark benchmark) {
 int32
 main(void) {
 	bench("chain", chain);
+	bench("fan", fan);
 }
