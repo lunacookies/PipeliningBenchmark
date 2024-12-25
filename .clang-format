@@ -6,7 +6,6 @@ AllowShortCaseLabelsOnASingleLine: true
 AllowShortFunctionsOnASingleLine: None
 AllowShortIfStatementsOnASingleLine: false
 AllowShortLoopsOnASingleLine: false
-AlwaysBreakAfterDefinitionReturnType: All
 BinPackParameters: false
 ColumnLimit: 100
 ContinuationIndentWidth: 8
