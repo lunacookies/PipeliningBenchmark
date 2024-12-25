@@ -1,0 +1,16 @@
+AlignAfterOpenBracket: DontAlign
+AlignEscapedNewlines: DontAlign
+AlignTrailingComments: false
+AllowShortBlocksOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AlwaysBreakAfterDefinitionReturnType: All
+BinPackParameters: false
+ColumnLimit: 100
+ContinuationIndentWidth: 8
+IndentCaseLabels: true
+IndentWidth: 8
+InsertNewlineAtEOF: true
+UseTab: ForIndentation
